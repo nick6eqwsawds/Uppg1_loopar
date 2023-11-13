@@ -24,5 +24,9 @@ public class App {
             System.out.println(tal3);
             tal3--;
         }
+        System.out.println("_ _ _ _ f) _ _ _ _ ");
+        for(int j = 5; j >= 0; j--){
+            System.out.println(j);
+        }
     }
 }
