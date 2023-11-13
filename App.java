@@ -6,5 +6,9 @@ public class App {
             System.out.println(tal1);
             tal1++;
         }
+        System.out.println("_ _ _ _ c) _ _ _ _ ");
+        for(int i = 0; i < 5; i++){
+            System.out.println(i);
+        }
     }
 }
