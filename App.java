@@ -2,6 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         int tal1=2;
         int tal2=2;
+        int tal3=5;
         //int tal1=0;
 
         System.out.println("Del A-B");
@@ -18,5 +19,10 @@ public class App {
             System.out.println(tal2);
             tal2++;
         } while(tal2<6);
+        System.out.println("_ _ _ _ e) _ _ _ _ ");
+        while(tal3>=0){
+            System.out.println(tal3);
+            tal3--;
+        }
     }
 }
