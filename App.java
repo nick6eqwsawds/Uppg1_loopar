@@ -38,7 +38,7 @@ public class App {
         int tal_4 = tangentbord.nextInt();
         int tal_5 = tangentbord.nextInt();
         int talen[]={tal_1, tal_2, tal_3, tal_4, tal_5};
-        for(int i=0; i < talen.length; i++){
+        for(int i=4; i <= talen.length; i--){
             System.out.println(talen[i]);
         }
         }
